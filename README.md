@@ -7,6 +7,7 @@ A study repository for practicing Git and GitHub.
 - `README.md` — project description
 - `frenesi.txt` — lyrics
 - `krolik.jpg` — a meme
+- `greet.py` — simple greeting program
 
 ## Progress
 
