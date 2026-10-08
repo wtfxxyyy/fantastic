@@ -11,6 +11,7 @@ A study repository for practicing Git and GitHub.
 - `memes/` — folder with memes
   - `memes/krolik.jpg` — rabbit meme
   - `memes/yabloko.jpg` — apple meme
+  - `memes/kot.jpg` - cats meme
 
 ## Progress
 
