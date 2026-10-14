@@ -9,9 +9,6 @@ A study repository for practicing Git and GitHub.
 - `greet.py` — simple greeting program
 - `heart.py` — heart drawing program
 - `memes/` — folder with memes
-  - `memes/krolik.jpg` — rabbit meme
-  - `memes/yabloko.jpg` — apple meme
-  - `memes/kot.jpg` - cats meme
 
 ## Progress
 
@@ -19,4 +16,4 @@ A study repository for practicing Git and GitHub.
 - [x] Make the first commits
 - [x] Add first programs (greet.py, heart.py)
 - [x] Create memes folder
-- [ ] Stay active for 70 days (16/70)
+- [ ] Stay active for 70 days (18/70)
