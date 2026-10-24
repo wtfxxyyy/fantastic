@@ -5,9 +5,8 @@ A study repository for practicing Git and GitHub.
 ## Contents
 
 - `README.md` — project description
-- `frenesi.txt` — lyrics
-- `greet.py` — simple greeting program
-- `heart.py` — heart drawing program
+- `lyrics/` — folder with song lyrics
+- `programs/` — folder with programs
 - `memes/` — folder with memes
 
 ## Progress
@@ -16,4 +15,4 @@ A study repository for practicing Git and GitHub.
 - [x] Make the first commits
 - [x] Add first programs (greet.py, heart.py)
 - [x] Create memes folder
-- [ ] Stay active for 70 days (26/70)
+- [ ] Stay active for 70 days (28/70)
