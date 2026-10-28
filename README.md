@@ -15,4 +15,4 @@ A study repository for practicing Git and GitHub.
 - [x] Make the first commits
 - [x] Add first programs (greet.py, heart.py)
 - [x] Create memes folder
-- [ ] Stay active for 70 days (30/70)
+- [ ] Stay active for 70 days (31/70)
